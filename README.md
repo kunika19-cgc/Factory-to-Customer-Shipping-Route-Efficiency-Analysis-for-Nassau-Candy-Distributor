@@ -30,3 +30,5 @@ The dashboard will open at: http://localhost:8501
 - Date range selector
 - Region, Ship Mode, Factory dropdowns
 - Lead-time delay threshold slider
+
+deployed address: https://4vcnwmhsyz25sambda5xvr.streamlit.app/
